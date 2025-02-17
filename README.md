@@ -1,22 +1,22 @@
-# Solid - Free Next.js Web Template and Starter Kit for SaaS
+# initify - Free Next.js Web Template and Starter Kit for SaaS
 
-Solid is a free Next.js template specifically crafted for startups, SaaS, and software websites. It provides an extensive array of necessary sections, elements, and pages required to build a fully-equipped website for any SaaS, software, or startup site. Comes with all cutting edge React and Next.js features - **Built with Next.js 13, React 18 and TypeScript.**
+initify is a free Next.js template specifically crafted for startups, SaaS, and software websites. It provides an extensive array of necessary sections, elements, and pages required to build a fully-equipped website for any SaaS, software, or startup site. Comes with all cutting edge React and Next.js features - **Built with Next.js 13, React 18 and TypeScript.**
 
 This Next.js template's homepage comes with an awesome hero area, logos of associated brands, a features section, an about section, another features section with tabs, counters, and star ratings, integration options, clear call-to-actions, an FAQ section with accordions, a testimonials section, pricing tables, a contact page, a blog, and a distinctive footer.
 
-**Solid Next.js template packed with all necessary external pages** - such as login, registration, blog grids, and single blog pages, among others. This broad collection of pages provides all the necessary tools to create a feature-packed, comprehensive, and visually appealing website or landing page for software, a web application, or SaaS.
+**initify Next.js template packed with all necessary external pages** - such as login, registration, blog grids, and single blog pages, among others. This broad collection of pages provides all the necessary tools to create a feature-packed, comprehensive, and visually appealing website or landing page for software, a web application, or SaaS.
 
-### [🔥 Get Solid Pro - Next.js SaaS Boilerplate and Starter Kit](https://nextjstemplates.com/templates/solid)
+### [🔥 Get initify Pro - Next.js SaaS Boilerplate and Starter Kit](https://nextjstemplates.com/templates/initify)
 
-![Startup Pro](https://uideck.com/wp-content/uploads/edd/2023/07/solid-saas.png)
+![Startup Pro](https://uideck.com/wp-content/uploads/edd/2023/07/initify-saas.png)
 
-### [🚀 Solid PRO Live Demo](https://solid.nextjstemplates.com/)
+### [🚀 initify PRO Live Demo](https://initify.nextjstemplates.com/)
 
-### [🚀 Solid FREE Live Demo](https://solid-free.nextjstemplates.com/)
+### [🚀 initify FREE Live Demo](https://initify-free.nextjstemplates.com/)
 
 ### TailAdmin React PRO vs TailAdmin React FREE Comparison 📊
 
-#### [Solid PRO](https://solid.nextjstemplates.com/)
+#### [initify PRO](https://initify.nextjstemplates.com/)
 
 - SaaS Boilerplate + Starter Kit with Essential Integrations and Functionalities
 - Essential Integrations: Auth, DB, Stripe, MDX and More ...
@@ -27,7 +27,7 @@ This Next.js template's homepage comes with an awesome hero area, logos of assoc
 
 ---
 
-#### [Solid FREE](https://solid-free.nextjstemplates.com/)
+#### [initify FREE](https://initify-free.nextjstemplates.com/)
 
 - Only UI - Coded for Next.js
 - No Integrations
@@ -38,9 +38,9 @@ This Next.js template's homepage comes with an awesome hero area, logos of assoc
 
 ---
 
-### [📦 Download](https://nextjstemplates.com/templates/solid)
+### [📦 Download](https://nextjstemplates.com/templates/initify)
 
-### [🔥 Get Pro](https://nextjstemplates.com/templates/solid)
+### [🔥 Get Pro](https://nextjstemplates.com/templates/initify)
 
 ### [🔌 Documentation](https://nextjstemplates.com/docs)
 
@@ -80,7 +80,7 @@ If you are using a GitHub repo then you can go with free-of-cost and easy-to-use
 
 ### 📄 License
 
-Solid Free is 100% free and open-source, feel free to use with your personal and commercial projects.
+initify Free is 100% free and open-source, feel free to use with your personal and commercial projects.
 
 ### 💜 Support
 

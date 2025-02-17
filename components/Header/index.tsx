@@ -99,7 +99,7 @@ const Header = () => {
         <div
           className={`invisible h-0 w-full items-center justify-between xl:visible xl:flex xl:h-auto xl:w-full ${
             navigationOpen &&
-            "navbar !visible mt-4 h-auto max-h-[400px] rounded-md bg-white p-7.5 shadow-solid-5 dark:bg-blacksection xl:h-auto xl:p-0 xl:shadow-none xl:dark:bg-transparent"
+            "navbar shadow-initify-5 !visible mt-4 h-auto max-h-[400px] rounded-md bg-white p-7.5 dark:bg-blacksection xl:h-auto xl:p-0 xl:shadow-none xl:dark:bg-transparent"
           }`}
         >
           <nav>
@@ -162,7 +162,7 @@ const Header = () => {
             </Link>
 
             <Link
-              href="https://nextjstemplates.com/templates/solid"
+              href="https://nextjstemplates.com/templates/initify"
               className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho"
             >
               Get Pro 🔥
