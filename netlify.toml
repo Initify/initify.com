@@ -1,23 +1,2 @@
 [build]
-  command = "curl https://bun.sh/install | bash && bun run build && mkdir -p ./dist && cp -r ../public/* ./dist/"
-
-[[redirects]]
-  from = "/"
-  to = "/simulatorvue"
-  status = 301
-  force = true
-  
-[[redirects]]
-  from = "/simulatorvue/v0/*"
-  to = "/simulatorvue/v0/index-cv.html"
-  status = 200
-
-[[redirects]]
-  from = "/simulatorvue/v1/*"
-  to = "/simulatorvue/v1/index-cv.html"
-  status = 200
-
-[[redirects]]
-  from = "/simulatorvue/*"
-  to = "/simulatorvue/v0/index-cv.html"
-  status = 200
+  command = "curl https://bun.sh/install | bash && bun run build
