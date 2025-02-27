@@ -1,2 +1,0 @@
-[build]
-  command = "curl https://bun.sh/install | bash && bun run build"
